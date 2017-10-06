@@ -5,7 +5,7 @@
 <p><a href="https://github.com/jkdev-cn/Google-Hosts/raw/master/windows.zip">windows脚本下载</a></p>
 
 ## 0.关于此项目与hosts
-本项目为开源免费项目，hosts解析记录列表来源互联网，Android　APP客户端和windows的bat脚本由本人编写，不存在任何盈利，大家要理性辨认，不要被他人利用作为索财之道，本项目的主体功能是通过Android APP实现，本人完全是因为Android APP开发的兴趣，而维护此项目，完全是个人的兴趣
+本项目为开源免费项目，hosts解析记录列表来源互联网，Android　APP客户端和windows的bat脚本由本人编写，不存在任何盈利，大家要理性辨认，不要被他人利用作为索财之道，本项目的主体功能是通过Android APP实现，本人完全是因为Android APP开发的兴趣而维护此项目，完全是个人的兴趣
 
 (1)熟悉计算机的同学都知道，hosts文件是用于解析域名的，它会把我们在上网时输入的域名解析成对应的IP地址，因此我们可以访问到很多网站，但是通常情况下我们是不使用hosts文件解析域名的，因为互联网上有大量的域名大量的IP，所以一般上网时浏览器会先请求在互联网节点上的域名服务器，然后我们就可以顺利访问到我们访问的网站了
 
@@ -16,10 +16,10 @@
 ## 1.windows使用方法：
 解压windows.zip后，点击＂．bat＂脚本文件运行即可实现hosts文件复制到您的windows系统，如图所示
 
-执行脚本
+(1)执行脚本
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/windows_01.png">
 
-hosts复制成功
+(2)hosts复制成功
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/windows_02.png">
 
 ## 2.Android客户端使用方法：
