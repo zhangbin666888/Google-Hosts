@@ -13,11 +13,14 @@
 ## 1.windows使用方法：
 解压windows.zip后，点击＂．bat＂脚本文件运行即可实现hosts文件复制到您的windows系统，如图所示
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/windows.png">
- 
+
+
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/windows.zip"></a>windows脚本下载</p>
 
 
 ## 2.Android客户端使用方法：
 下载Google-Hosts.apk进行安装，手机需要root权限，点击一键科学上网，即可实现最新hosts复制到您的Android系统
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/Google-Hosts.apk"></a>Android客户端下载</p>
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_1.png" width = "324" height = "576" alt="图片" align=center />
  <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_2.png" width = "324" height = "576" alt="图片" align=center />
 <br>
