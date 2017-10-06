@@ -21,8 +21,7 @@
 ## 2.Android客户端使用方法：
 下载Google-Hosts.apk进行安装，手机需要root权限，点击一键科学上网，即可实现最新hosts复制到您的Android系统
 
-<img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_1.png" width = "324" height = "576" alt="图片" align=center />
- <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_2.png" width = "324" height = "576" alt="图片" align=center />
+<img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_1.png" width = "324" height = "576" alt="图片" align=center />　<img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_2.png" width = "324" height = "576" alt="图片" align=center />
 <br>
 
 大家不要在中国大陆地区传播和讨论此项目
