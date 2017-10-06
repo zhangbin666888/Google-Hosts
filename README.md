@@ -1,9 +1,9 @@
 # Google-Hosts
 一键科学上网，hosts不定时失效，我们也会不定时更新
 
-<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/windows.zip">windows脚本下载</a></p>
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/raw/master/windows.zip">windows脚本下载</a></p>
 
-<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/Google-Hosts.apk">Android客户端下载</a></p>
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/raw/master/Google-Hosts.apk">Android客户端下载</a></p>
 
 ## 0.关于此项目与hosts
 本项目为开源免费项目，hosts解析记录列表来源互联网，Android　APP客户端和windows的bat脚本由本人编写，不存在任何盈利，大家要理性辨认，不要被他人利用作为索财之道，本项目的主体功能是通过Android APP实现，本人完全是因为Android APP开发的兴趣，而维护此项目，完全是个人的兴趣
