@@ -1,6 +1,10 @@
 # Google-Hosts
 一键科学上网，hosts不定时失效，我们也会不定时更新
 
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/windows.zip">windows脚本下载</a></p>
+
+<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/Google-Hosts.apk">Android客户端下载</a></p>
+
 ## 0.关于此项目与hosts
 本项目为开源免费项目，hosts解析记录列表来源互联网，Android　APP客户端和windows的bat脚本由本人编写，不存在任何盈利，大家要理性辨认，不要被他人利用作为索财之道，本项目的主体功能是通过Android APP实现，本人完全是因为Android APP开发的兴趣，而维护此项目，完全是个人的兴趣
 
@@ -14,15 +18,13 @@
 解压windows.zip后，点击＂．bat＂脚本文件运行即可实现hosts文件复制到您的windows系统，如图所示
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/windows.png">
 
-
-<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/windows.zip">windows脚本下载</a></p>
-
-
 ## 2.Android客户端使用方法：
 下载Google-Hosts.apk进行安装，手机需要root权限，点击一键科学上网，即可实现最新hosts复制到您的Android系统
-<p><a href="https://github.com/jkdev-cn/Google-Hosts/blob/master/Google-Hosts.apk">Android客户端下载</a></p>
+
 <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_1.png" width = "324" height = "576" alt="图片" align=center />
  <img src="https://github.com/jkdev-cn/Google-Hosts/blob/master/res/mobile_2.png" width = "324" height = "576" alt="图片" align=center />
 <br>
 
 大家不要在中国大陆地区传播和讨论此项目
+
+
