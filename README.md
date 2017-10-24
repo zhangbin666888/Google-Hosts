@@ -7,6 +7,14 @@
 
 <p><a href="https://github.com/jkdev-cn/Google-Hosts/raw/master/windows.zip">windows脚本下载</a></p>
 
+
+补充：
+Hosts有其优点，也有缺点，在这里就不列举了，这里给大家分享一个开源代理工具：
+<p><a href="https://github.com/yinghuocho/firefly-proxy">打开链接</a></p>
+
+在后期，等有时间的时候，我也计划开发一个免费的代理工具的项目，开发之后会把其公布到这里。
+
+
 ## 1.关于此项目与hosts
 本项目为开源免费项目，hosts解析记录列表来源互联网，Android　APP客户端和windows的bat脚本由本人编写，不存在任何盈利，大家要理性辨认，不要被他人利用作为索财之道，本项目的主体功能是通过Android APP实现，本人完全是因为Android APP开发的兴趣而维护此项目，完全是个人的兴趣
 
