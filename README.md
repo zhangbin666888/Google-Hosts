@@ -1,6 +1,8 @@
 # Google-Hosts
 一键科学上网，hosts不定时失效，我们也会不定时更新
 
+服务器暂时停止更新，Android客户端暂时不能使用，等有时间在说吧
+
 由于服务器升级，现需将Google-Host Android app升级至1.2.0版本，大家需要点击右上角菜单进入设置打开版本检测功能后重启app获取更新，老版本将在10月20号00：00后不再支持，host解析列表最近失效比较快，大家耐心等待修复
 
 <p><a href="https://github.com/jkdev-cn/Google-Hosts/raw/master/Google-Hosts.apk">Android客户端1.2.0下载</a></p>
