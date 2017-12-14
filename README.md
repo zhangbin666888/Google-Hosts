@@ -11,7 +11,7 @@ hosts列表很多失效了
 
 
 补充：
-##这里给大家分享其他方式：
+## 这里给大家分享其他方式：
 （1）一个开源代理工具：
 <p><a href="https://github.com/yinghuocho/firefly-proxy">https://github.com/yinghuocho/firefly-proxy</a></p>
 （2）代理列表（需要科学上网）：
