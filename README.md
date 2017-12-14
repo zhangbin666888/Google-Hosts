@@ -1,7 +1,7 @@
 # Google-Hosts
-一键科学上网，hosts不定时失效，我们也会不定时更新
+hosts列表很多失效了
 
-# 服务器暂时停止更新，Android客户端暂时不能使用，大家可以先使用开源软件，等有时间在说吧
+## 服务器暂时停止更新，Android客户端暂时不能使用，可以先使用其他开源工具
 
 由于服务器升级，现需将Google-Host Android app升级至1.2.0版本，大家需要点击右上角菜单进入设置打开版本检测功能后重启app获取更新，老版本将在10月20号00：00后不再支持，host解析列表最近失效比较快，大家耐心等待修复
 
@@ -11,10 +11,13 @@
 
 
 补充：
-Hosts有其优点，也有缺点，在这里就不列举了，这里给大家分享一个开源代理工具：
-<p><a href="https://github.com/yinghuocho/firefly-proxy">打开链接</a></p>
+##这里给大家分享其他方式：
+（1）一个开源代理工具：
+<p><a href="https://github.com/yinghuocho/firefly-proxy">https://github.com/yinghuocho/firefly-proxy</a></p>
+（2）代理列表（需要科学上网）：
+<a href="http://www.gatherproxy.com/zh/sockslist/">http://www.gatherproxy.com/zh/sockslist/</a>
 
-在后期，等有时间的时候，我也计划开发一个免费的代理工具的项目，开发之后会把其公布到这里。
+在后期，等有时间的时候，计划开发一个免费的代理工具的项目，开发之后会把其公布到这里。
 
 
 ## 1.关于此项目与hosts
