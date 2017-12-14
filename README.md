@@ -12,7 +12,7 @@ hosts列表很多失效了
 
 补充：
 ## 这里给大家分享其他方式：
-（1）一个开源代理工具：<a href="https://github.com/yinghuocho/firefly-proxy">https://github.com/yinghuocho/firefly-proxy</a>
+（1）一个开源代理工具：<a href="https://github.com/yinghuocho/firefly-proxy">https://github.com/yinghuocho/firefly-proxy</a><br>
 （2）代理服务器列表（需要科学上网）：<a href="http://www.gatherproxy.com/zh/sockslist/">http://www.gatherproxy.com/zh/sockslist/</a>
 
 在后期，等有时间的时候，计划开发一个免费的代理工具的项目，开发之后会把其公布到这里。
